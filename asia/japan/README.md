@@ -1,0 +1,3 @@
+# Japan
+
+- [Hokkaidi](hokkaido.md)
